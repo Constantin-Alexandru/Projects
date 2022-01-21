@@ -18,3 +18,5 @@ The following list contains different programming projects:
 - [ ] Music Media Player
 - [ ] Score Tracker
 - [ ] Custom String Class
+- [ ] Web Scraping Chat Bot
+- [ ] Console Bug Tracker
