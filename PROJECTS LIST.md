@@ -2,7 +2,7 @@ PROJECT IDEAS
 =============
 
 The following list contains different programming projects:
-- [ ] QRCode App
+- [x] QRCode App
 - [ ] Portofolio Website
 - [ ] Shopping List / Money Management App
 - [ ] Game From Scratch
