@@ -2,7 +2,7 @@ PROJECT IDEAS
 =============
 
 The following list contains different programming projects:
-- [x] QRCode App
+- [x] QRCode App ([Link](Project-Overview-Files/QRCode_App.md))
 - [ ] Portofolio Website
 - [ ] Shopping List / Money Management App
 - [ ] Game From Scratch
@@ -18,3 +18,4 @@ The following list contains different programming projects:
 - [ ] Music Media Player
 - [ ] Score Tracker
 - [ ] Custom String Class
+- [ ] Brainfuck Compiler
