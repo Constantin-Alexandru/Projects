@@ -20,4 +20,4 @@ The following list contains different programming projects:
 - [ ] Custom String Class
 - [ ] Web Scraping Chat Bot
 - [ ] Console Bug Tracker
-- [ ] Brainfuck Compiler
+- [ ] Brainfuck Compiler/Interpreter
